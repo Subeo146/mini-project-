@@ -1,4 +1,4 @@
-# poke-game
+# mini-project
 
 ## Project setup
 ```
